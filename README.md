@@ -1,4 +1,4 @@
-# NODE API GRAPHQL PUC
+# NODE API GRAPHQL
 
 This is a simple API using Node.js, Apollo Server and GraphQL.
 
